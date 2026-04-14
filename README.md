@@ -1,2 +1,0 @@
-# saquedemetamdp
-Saque de Meta
